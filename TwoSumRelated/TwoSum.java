@@ -1,3 +1,5 @@
+import java.util.Map;
+
 // https://leetcode.com/problems/two-sum/submissions/
 // 1. Two Sum
 class TwoSum {
